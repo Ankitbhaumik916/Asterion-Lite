@@ -1,0 +1,15 @@
+1000 sessions x 10 fights. Mean and 95% CI across sessions. Governor cap: 0.65
+
+Test player habit: left dodger
+boss          player win %      boss hit %      hits taken    fight length s
+scripted      92.4 +/- 0.5    34.9 +/- 0.3     3.5 +/- 0.0      20.9 +/- 0.0
+random        91.0 +/- 0.6    33.4 +/- 0.3     3.3 +/- 0.0      20.8 +/- 0.0
+adaptive      58.4 +/- 1.0    49.7 +/- 0.3     4.8 +/- 0.0      20.4 +/- 0.0
+
+Test player habit: cycler
+boss          player win %      boss hit %      hits taken    fight length s
+scripted      97.9 +/- 0.3    33.8 +/- 0.2     3.4 +/- 0.0      21.0 +/- 0.0
+random        90.8 +/- 0.6    33.4 +/- 0.3     3.3 +/- 0.0      20.8 +/- 0.0
+adaptive      63.0 +/- 0.9    48.2 +/- 0.2     4.7 +/- 0.0      20.4 +/- 0.0
+
+wrote results.csv
